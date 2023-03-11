@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.city {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+#my-id {
+    background-color: lightcyan;
+}
+
+a:hover {
+    color: red;
+}
